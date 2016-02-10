@@ -1,6 +1,10 @@
 ---
 title: Old Faithful Geyser
 ---
+Name: Sarah McGough
+Gender: Female
+I am modifying the document so that I can see the modification on "git status"
+---
 
 The [Old Faithful Geyser](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/faithful.html) 
 data set is a well-known data set that depicts the relationship 
